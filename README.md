@@ -26,7 +26,7 @@ React | Next.js | HTML | CSS | Tailwind
 Node.js | Express | REST APIs | MongoDB | MySQL | Supabase
 
 ### Big Data / Distributed Processing  
-Apache Spark | MapReduce
+PySpark | MapReduce
 
 ### Tools & Platforms  
 VS Code | Git & GitHub | Cloudinary | Postman | Clerk (Auth)
