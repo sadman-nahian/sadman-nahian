@@ -41,7 +41,25 @@ VS Code | Git & GitHub | Cloudinary | Postman | Clerk (Auth)
 A full-stack AI platform for article writing, image generation, background/object removal, and resume enhancement — all in one modern dashboard.
 
 **Tech:** Next.js, Express, Tailwind, Shadcn UI  
-**AI APIs:** Google Gemini, ClipDrop, Cloudinary (optional)
+**AI APIs:** Google Gemini, ClipDrop, Cloudinary 
+
+### 🔹 Pending — Event Scheduling & Automation Platform  
+🔗[ https://pending-frontend.vercel.app/](https://pending-frontend.vercel.app/) (example deployment)
+
+A web app that helps users create events, detect scheduling conflicts, send invitations, manage RSVPs, and view analytics via a clean dashboard.  
+Includes smart conflict detection and updates guest responses instead of creating duplicates.
+
+**Features:**  
+- Event creation with multiple date/time slots  
+- Smart conflict detection between existing events  
+- Email invitations for attendees  
+- Guest response management (updates instead of duplicates)  
+- Dashboard with event list & analytics  
+- Fully responsive UI
+
+**Tech:** Next.js, Express, PostgreSQL, Tailwind, Clerk  
+**APIs/Services:** SQL (Neon), SendGrid/Email service, Cloudinary (optional)
+
 
 ---
 
