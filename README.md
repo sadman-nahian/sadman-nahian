@@ -11,7 +11,7 @@ Developing REST APIs and connecting them to frontends
 
 Improving DSA skills on LeetCode (focus on medium & hard problems)
 
-Learning big data processing with Apache Spark and MapReduce
+Learning big data processing with PySpark and MapReduce
 
 Working on OS simulation in C++
 
